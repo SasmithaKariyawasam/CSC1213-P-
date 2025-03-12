@@ -1,0 +1,44 @@
+Date:- 2025/03/12
+Practical Number:- 02
+Problem Specification:- Exploring data types in java
+Implementation:-
+class Ex02{
+	public static void main(String args[])
+	{
+		String name = "Sasmitha";
+		int age = 21;
+		double PI = 3.1415;
+		int m = 4;
+		char and_sign = '&';
+		boolean TF = true;
+		
+		System.out.println(name);
+		System.out.println(age);
+		System.out.println(PI);
+		System.out.println(m);
+		System.out.println(and_sign);
+		System.out.println(TF);
+		
+		System.out.println("My name is "+name);
+		System.out.println("My age is "+ (age+m));
+		System.out.println("The result is "+(PI+m));
+		
+	}
+}
+		
+		
+			
+Output:-
+
+Sasmitha
+21
+3.1415
+4
+&
+true
+My name is Sasmitha
+My age is 25
+The result is 7.141500000000001
+
+Conclusion:- 
+There are data types that we can use such as String,Integer,Double,Char,Boolean in java.

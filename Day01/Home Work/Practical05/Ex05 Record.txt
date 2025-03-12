@@ -1,0 +1,31 @@
+Date:- 2025/03/12
+Practical Number:- 05
+Problem Specification:- Combine outputs with Strings 
+Implementation:-
+
+class Ex05{
+	public static void(String args[]{
+		System.out.println("Name: Sasmitha Kariyawasam");
+		System.out.println("Registration Number: 2022/ASP/17");
+		System.out.println("Degree Program: Undergraduate");
+		
+		String Name = "Sasmitha Kariyawasam";
+		String RNum = "2022/ASP/17";
+		String DPro = "Undergraduate";
+		
+		System.out.prinln("Name: "+Name);
+		System.out.prinln("Registration Number: "+Rnum);
+		System.out.prinln("Degree Program: "+Dpro);
+	}
+}
+
+Output:-
+Name: Sasmitha Kariyawasam
+Registration Number: 2022/ASP/17
+Degree Program: Undergraduate
+Name: Sasmitha Kariyawasam
+Registration Number: 2022/ASP/17
+Degree Program: Undergraduate
+
+Conclusion:- 
+You can combine variables and Strings using + sign

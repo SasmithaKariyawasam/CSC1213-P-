@@ -1,0 +1,18 @@
+Date:- 2025/03/12
+Practical Number:- 06
+Problem Specification:- End lines in a Single Output
+
+Implementation:-
+
+class Ex06{
+	public static void main(String args[])
+	{
+		System.out.println("Name: Sasmitha Kariyawasam \nRegistration Number: 2022/ASP/17  \nDegree Program: Undergraduate");
+	}
+}Output:-
+Name: Sasmitha Kariyawasam
+Registration Number: 2022/ASP/17
+Degree Program: Undergraduate
+
+Conclusion:- 
+You can break lines in a single output by using backslash and n (\n)

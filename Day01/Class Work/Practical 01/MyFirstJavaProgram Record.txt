@@ -1,0 +1,16 @@
+Date:- 2025/03/12
+Practical Number:- 01
+Problem Specification:- Display a Text using java
+Implementation:-
+
+class MyFirstJavaProgram{
+	public static void main(String args[]){
+		System.out.println("Hello World");
+	}
+}
+		
+Output:-
+
+Hello World
+
+Conclusion:- You can use "System.out.println" line to print statements in java
